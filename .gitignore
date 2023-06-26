@@ -7,7 +7,7 @@
 Thumbs.db
 
 # Ignorar archivos y carpetas generadas por la compilación y el empaquetado
-/dist/
+
 /build/
 
 # Ignorar archivos y carpetas generadas por dependencias o herramientas de desarrollo
