@@ -1,0 +1,22 @@
+# Ignorar archivos de configuración específicos del IDE
+.idea/
+.vscode/
+
+# Ignorar archivos y carpetas generadas por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos y carpetas generadas por la compilación y el empaquetado
+/dist/
+/build/
+
+# Ignorar archivos y carpetas generadas por dependencias o herramientas de desarrollo
+/node_modules/
+/.cache/
+
+# Ignorar archivos de credenciales o información sensible
+.env
+
+# Ignorar archivos de respaldo o temporales
+*.bak
+*.tmp
